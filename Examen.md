@@ -10,9 +10,9 @@
 
 ### UT2.- Instalacion y uso de entornos de desarrollo
 
-- IntelliJ IDEA <img src="img/IDEA.png" alt="IDEA" width="500"/>
-- Eclipse <img src="img/eclipse.png" alt="Eclipse" width="500"/>
-- NetBeans <img src="img/netbeans.png" alt="NetBeans" width="500"/>
+- IntelliJ IDEA <img src="IDEA.PNG" alt="IDEA" width="500"/>
+- Eclipse <img src="eclipse.PNG" alt="Eclipse" width="500"/>
+- NetBeans <img src="netbeans.PNG" alt="NetBeans" width="500"/>
 
 ### UT3.- Sistemas de control de versiones
 
